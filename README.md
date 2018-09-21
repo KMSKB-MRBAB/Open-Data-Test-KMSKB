@@ -13,15 +13,15 @@ Meer dan 10.000 representatieve kunstwerken zijn momenteel opgenomen in de onlin
 De dataset die werd vrijgegeven op Github bevat 50 records die de reeds geïnformatiseerde collectie oude sculpturen weergeeft die vervaardigd werden tussen 1400 en 1600.
 
 De dataset is beschikbaar in CSV format.
-[Oude sculpturen KMSKB](http://www.opac-fabritius.be)
+[www.opac-fabritius.be](http://www.opac-fabritius.be)
 
 ## Licenties
 De dataset is toegankelijk in het publiek domein via een CC0-licentie
 
-Beelden maken geen deel uit van de dataset. Indien u geïnteresseerd bent in een afbeelding, kunt u contact openemen met [photo@fine-arts-museum.be)](photo@fine-arts-museum.be)  
+Beelden maken geen deel uit van de dataset. Indien u geïnteresseerd bent in een afbeelding, kunt u contact opnemen met [photo@fine-arts-museum.be)](mailto:photo@fine-arts-museum.be)  
 
 ## Gebruikrichtlijnen
-Indien u gebruik maakt van deze open data, kunt u, waar mogelijk *© KMSKB, Brussel* als bronvermelding noteren.  Indien u fouten terugvond of extra informatie die u wilt delen, gelieve ons op de hoogte te brengen via [contact](mailto:fabritius@fine-arts-museum.be).
+Indien u gebruik maakt van deze open data, kunt u, waar mogelijk *© KMSKB, Brussel* als bronvermelding noteren.  Indien u fouten terugvond of extra informatie die u wilt delen, gelieve ons op de hoogte te brengen via [fabritius@fine-arts-museum.be](mailto:fabritius@fine-arts-museum.be).
 
 Als u voor uw onderzoek wil verwijzen naar collectiestukken van de KMSKB die opgenomen staan in deze dataset, gebruik dan de persistente URI’s in het veld ‘Persistente URI Object’. Deze URI’s hebben het volgende formaat : http://www.fine-arts-museum.be/collection/work/ID/[Id]
 
